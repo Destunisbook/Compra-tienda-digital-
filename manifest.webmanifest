@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Vitrina Local | Compra tu tienda digital",
+  "short_name": "Vitrina Local",
+  "description": "Catálogo demo personalizable para negocios locales.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
