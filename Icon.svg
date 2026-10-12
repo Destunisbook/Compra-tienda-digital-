@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+<title>DESTUNIS</title>
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a0"/><stop offset=".28" stop-color="#e5a928"/><stop offset=".52" stop-color="#fff1a5"/><stop offset=".78" stop-color="#b87910"/><stop offset="1" stop-color="#ffdc65"/></linearGradient>
+<linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#242424"/><stop offset=".55" stop-color="#030303"/><stop offset="1" stop-color="#171717"/></linearGradient>
+</defs>
+<circle cx="256" cy="256" r="235" fill="url(#black)" stroke="#75470b" stroke-width="9"/>
+<circle cx="256" cy="256" r="228" fill="none" stroke="url(#gold)" stroke-width="5"/>
+<path d="M135 176 L180 218 L255 92 L332 218 L377 176 L350 270 L162 270 Z" fill="url(#gold)" stroke="#ffdf76" stroke-width="3" stroke-linejoin="round"/>
+<path d="M145 278 H367 Q372 278 372 284 V295 H140 V284 Q140 278 145 278Z" fill="url(#gold)"/>
+<text x="256" y="365" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="900" letter-spacing="-2" fill="#fff" stroke="#b77913" stroke-width="1.5" paint-order="stroke fill">DESTUNIS</text>
+<path d="M105 397 Q256 350 407 397 Q330 388 256 391 Q177 390 105 397Z" fill="url(#gold)"/>
+<path d="M256 407 L266 426 L286 432 L266 438 L256 458 L246 438 L226 432 L246 426 Z" fill="url(#gold)"/>
+</svg>
