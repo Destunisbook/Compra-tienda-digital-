@@ -1,7 +1,7 @@
 /* CONFIGURACIÓN RÁPIDA: cambia estos datos para cada comerciante. */
 const STORE = {
   name: "Vitrina Local",
-  whatsapp: "5217710000000", // Reemplaza por el número del negocio, con código de país. México: 52 + número.
+  whatsapp: "525632553113", // Reemplaza por el número del negocio, con código de país. México: 52 + número.
   currency: "MXN",
   locale: "es-MX"
 };
